@@ -10,7 +10,9 @@ Master’s in Information Technology at the University of North Texas (3.8 GPA)
 🌟 Certifications:
 
 AWS Solutions Architect Associate
-Salesforce Admin
+
+Salesforce Administration
+
 Salesforce Platform Developer I (PD1)
 
 
