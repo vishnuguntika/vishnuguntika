@@ -2,6 +2,7 @@
 Welcome to my GitHub! I’m a passionate Java Full Stack Developer with expertise in designing and developing efficient, scalable, and innovative solutions. I enjoy learning new technologies and contributing to impactful projects.
 
 🚀 About Me
+
 🎓 Education:
 
 Master’s in Information Technology at the University of North Texas (3.8 GPA)
@@ -11,6 +12,8 @@ Master’s in Information Technology at the University of North Texas (3.8 GPA)
 AWS Solutions Architect Associate
 Salesforce Admin
 Salesforce Platform Developer I (PD1)
+
+
 💡 Skills
 Development
 Frontend: HTML, CSS, JavaScript, ReactJS
